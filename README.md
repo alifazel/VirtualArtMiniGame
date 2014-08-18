@@ -17,10 +17,10 @@ The Actual game controls are displayed on-screen before the start of the game, b
 [Left Mouse Click] Shoot bullets.
 
 ## Main Architecture (In Order):
-*Splash Screen – The initial starting scene for the game, displays the starting graphic to the user.
-*Main Menu – A menu scene that allows you to either start or end the game
-*Control Screen – A scene that displays the controls of the game to the player.
-*Room – Initial automated starting scene that plays when the user starts the game. Displays the start where the player is shown slightly disorientated and takes drugs to further go under the influence. This causes the player to then blackout.
-*Main Game – The main game where the player is to shoot the bubbles that originate from the face mask.
-*Art Work – This scene displays the actual artwork to the user.
-*BG_Music_Scene – A background scene that is displayed that creates an overlay music.
+* Splash Screen – The initial starting scene for the game, displays the starting graphic to the user.
+* Main Menu – A menu scene that allows you to either start or end the game
+* Control Screen – A scene that displays the controls of the game to the player.
+* Room – Initial automated starting scene that plays when the user starts the game. Displays the start where the player is shown slightly disorientated and takes drugs to further go under the influence. This causes the player to then blackout.
+* Main Game – The main game where the player is to shoot the bubbles that originate from the face mask.
+* Art Work – This scene displays the actual artwork to the user.
+* BG_Music_Scene – A background scene that is displayed that creates an overlay music.
