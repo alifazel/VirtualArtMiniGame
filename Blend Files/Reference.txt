@@ -1,0 +1,6 @@
+monster.blends - Downloaded from: http://www.blender-models.com/model-downloads/characters/id/monster-female/
+fall1.mp3 - Downloaded from: http://www.sounddogs.com
+fall2.mp3 - Downloaded from: http://www.sounddogs.com
+fall3.mp3 - Downloaded from: http://www.sounddogs.com
+glassbreak.mp3 - Downloaded from: http://www.sounddogs.com/previews/25/mp3/482882_SOUNDDOGS__gl.mp3
+zap.mp3 - Downloaded from: http://www.sounddogs.com/previews/2149/mp3/1105078_SOUNDDOGS__sc.mp3
